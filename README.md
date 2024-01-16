@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borisovdmitriy&label=Profile%20views&color=0e75b6&style=flat" alt="borisovdmitriy" /> </p>
 
-<hr>
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-v3.4+-green?style=flat-square&logo=Python&logoColor=white)
