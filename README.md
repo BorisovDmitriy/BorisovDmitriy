@@ -6,61 +6,31 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-			alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-		rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-		</a>
-	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-	</a>
+![Python](https://img.shields.io/badge/Python-v3.4+-green?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-			alt="docker" width="40" height="40" /> 
-	</a>
 
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-			alt="html5" width="40" height="40" /> </a> 
-			
-	<a href="https://www.linux.org/" target="_blank"
-		rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-			width="40" height="40" /> </a> 
-			
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-			alt="mysql" width="40" height="40" /> 
-	</a> 
-	
-	<a href="https://www.postgresql.org" target="_blank"
-		rel="noreferrer"> <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql" width="40" height="40" /> 
-	</a> 
-			
-	<a href="https://postman.com" target="_blank"
-		rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-			width="40" height="40" /> 
-	</a> 
-			
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-			alt="python" width="40" height="40" /> </a> 
-			
-	<a href="https://redis.io" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-			alt="redis" width="40" height="40" /> 
-	</a>
-	
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-			src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-	</a>
-</p>
+
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+<!--
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+-->
+
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 <hr> 
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BorisovDmitriy&theme=github"/></p>
